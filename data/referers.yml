@@ -60,6 +60,7 @@ unknown:
 # CPC PROVIDERS
 
 cpc:
+
   Outbrain:
     domains:
       - paid.outbrain.com
@@ -3614,9 +3615,3 @@ search:
       - q
     domains:
       - zoohoo.cz
-
-# #######################################################################################################
-#
-# EMAIL PROVIDERS
-
-email:
