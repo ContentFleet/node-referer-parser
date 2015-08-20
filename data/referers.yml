@@ -51,6 +51,19 @@ unknown:
       - omg.yahoo.com
       - match.yahoo.net
 
+  Outbrain:
+    domains:
+      - traffic.outbrain.com
+
+# #######################################################################################################
+#
+# CPC PROVIDERS
+
+cpc:
+  Outbrain:
+    domains:
+      paid.outbrain.com
+
 
 # #######################################################################################################
 #
@@ -407,7 +420,7 @@ social:
     domains:
       - getpocket.com
       
-    ITU Sozluk:
+  ITU Sozluk:
     domains:
       - itusozluk.com
       
@@ -437,7 +450,11 @@ social:
       
   Donanimhaber:
     domains:
-      - donanimhaber.com    
+      - donanimhaber.com
+
+  Pinterest:
+    domains:
+      - pinterest.com
 
 # #######################################################################################################
 #
@@ -3597,3 +3614,9 @@ search:
       - q
     domains:
       - zoohoo.cz
+
+# #######################################################################################################
+#
+# EMAIL PROVIDERS
+
+email:
